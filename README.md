@@ -56,4 +56,7 @@ This website is ideal for freelancers, job seekers, students, and developers wan
 
 In summary, this project demonstrates a complete personal branding site using only HTML and CSS, built to work seamlessly in Visual Studio Code and viewable in any modern browser.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d32c8bea-4401-406f-add6-cd33068f467a)
 
